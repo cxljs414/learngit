@@ -1,0 +1,85 @@
+*   [33mcommit 5a04bee87363e739175abb615a901ef5406d31b3[m
+[31m|[m[32m\[m  Merge: 7fcf76b 95fc0f3
+[31m|[m [32m|[m Author: changxing <changxing19910906@163.com>
+[31m|[m [32m|[m Date:   Mon Sep 11 16:17:25 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     merge with no-ff
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit 95fc0f335dbd5c7d238ec98d2179201ba6f32feb[m
+[31m|[m[31m/[m  Author: changxing <changxing19910906@163.com>
+[31m|[m   Date:   Mon Sep 11 16:15:11 2017 +0800
+[31m|[m   
+[31m|[m       add 士大夫
+[31m|[m    
+*   [33mcommit 7fcf76b986ccb2c367fec550477a98c448489490[m
+[33m|[m[34m\[m  Merge: 2450e05 24f038b
+[33m|[m [34m|[m Author: changxing <changxing19910906@163.com>
+[33m|[m [34m|[m Date:   Mon Sep 11 16:10:51 2017 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     sdf
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit 24f038b422995cb1908cf607baac042d0085fc16[m
+[33m|[m [34m|[m Author: changxing <changxing19910906@163.com>
+[33m|[m [34m|[m Date:   Mon Sep 11 16:01:18 2017 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     sdf
+[33m|[m [34m|[m   
+* [34m|[m [33mcommit 2450e05a4056fd409f62d0d35c86bc69af602366[m
+[34m|[m[34m/[m  Author: changxing <changxing19910906@163.com>
+[34m|[m   Date:   Mon Sep 11 16:08:46 2017 +0800
+[34m|[m   
+[34m|[m       sdf
+[34m|[m  
+* [33mcommit 824ef973a0954cb58b3182eedaaff6d625883d1c[m
+[34m|[m Author: changxing <changxing19910906@163.com>
+[34m|[m Date:   Mon Sep 11 15:57:59 2017 +0800
+[34m|[m 
+[34m|[m     sdf
+[34m|[m  
+* [33mcommit be2d4ad8f3f363fd0b77fd47f7a6e5e3a1e57cea[m
+[34m|[m Author: changxing <changxing19910906@163.com>
+[34m|[m Date:   Mon Sep 11 15:50:55 2017 +0800
+[34m|[m 
+[34m|[m     sss
+[34m|[m  
+* [33mcommit d58578b58d2874508b2576abe699e73e099ef062[m
+[34m|[m Author: changxing <changxing19910906@163.com>
+[34m|[m Date:   Mon Sep 11 15:30:00 2017 +0800
+[34m|[m 
+[34m|[m     add test.txt
+[34m|[m  
+* [33mcommit ca7360d2e7cca7063bbf6c9a29f8824141a50740[m
+[34m|[m Author: changxing <changxing19910906@163.com>
+[34m|[m Date:   Mon Sep 11 15:29:11 2017 +0800
+[34m|[m 
+[34m|[m     rm test.txt
+[34m|[m  
+* [33mcommit f6c81a3b9cae4a9faa101aba282d7c4db93d951c[m
+[34m|[m Author: changxing <changxing19910906@163.com>
+[34m|[m Date:   Mon Sep 11 15:27:42 2017 +0800
+[34m|[m 
+[34m|[m     add test.txt
+[34m|[m  
+* [33mcommit 13b1f11821d9a9421d93308bf06e062544815a8f[m
+[34m|[m Author: changxing <changxing19910906@163.com>
+[34m|[m Date:   Mon Sep 11 15:19:49 2017 +0800
+[34m|[m 
+[34m|[m     add of files
+[34m|[m  
+* [33mcommit c1559d83f1b066d181c35bc63af9a3cf98241938[m
+[34m|[m Author: changxing <changxing19910906@163.com>
+[34m|[m Date:   Mon Sep 11 15:17:02 2017 +0800
+[34m|[m 
+[34m|[m     add of files
+[34m|[m  
+* [33mcommit 2234b844e478888084e3a5245719ea69dd90e4e4[m
+[34m|[m Author: changxing <changxing19910906@163.com>
+[34m|[m Date:   Mon Sep 11 14:57:59 2017 +0800
+[34m|[m 
+[34m|[m     add distributed
+[34m|[m  
+* [33mcommit 1b70fe7e2c1ab392cf3601a2146b7e2f1375dea6[m
+  Author: changxing <changxing19910906@163.com>
+  Date:   Mon Sep 11 14:52:57 2017 +0800
+  
+      write a readme file
